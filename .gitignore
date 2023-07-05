@@ -1,7 +1,8 @@
 .idea
 .DS_Store
-**__pycache__/
+**__pycache__/  # even though '**' is not needed here, but serves the purpose of emphasizing remove all directories with such name
 temp
 **code_archive/
 demo
 examples
+transnetv2-weights/
